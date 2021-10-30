@@ -259,7 +259,7 @@ Get to know our awesome team members and their contributions 👩‍💻👨‍�
 | ------- | --- | --- | --- |
 | <h3 align="center"> Esther Opone </h3> | <img src="https://user-images.githubusercontent.com/92184734/137252429-a2c2e69b-f7aa-469f-b191-3a2e6aa33506.jpeg"  width="200" height="250"> | @thevalueadder |   https://www.linkedin.com/in/estheropone/  |
 | ------- | --- | --- | --- |
-| <h3 align="center"> Margaret Adedayo Opeoluwa  </h3> | <img src="https://media-exp1.licdn.com/dms/image/C4D03AQHQnOKKvGlBow/profile-displayphoto-shrink_800_800/0/1635528503200?e=1640822400&v=beta&t=qlyR_kuznZK73yC0Yb6dRIlWINy4AnvlqOF9wOTCyMQ"  width="200" height="250"/> | @LadyMarg |   https://www.linkedin.com/in/margaret-adedayo-adeogun-b6a9117a/ |
+| <h3 align="center"> Margaret Adedayo Opeoluwa  </h3> | <img src="https://media-exp1.licdn.com/dms/image/C4D03AQHQnOKKvGlBow/profile-displayphoto-shrink_800_800/0/1635528503200?e=1640822400&v=beta&t=qlyR_kuznZK73yC0Yb6dRIlWINy4AnvlqOF9wOTCyMQ"  width="200" height="250"> | @LadyMarg |   https://www.linkedin.com/in/margaret-adedayo-adeogun-b6a9117a/ |
 | ------- | --- | --- | --- |
 | <h3 align="center"> Habeneheir Hailu Tickheir  </h3> | <img src="https://user-images.githubusercontent.com/92265936/139535566-96bb0b8b-ac46-436a-bdc0-8e7587075b36.png" width="200" height="250"> | @HabenTick |  www.linkedin.com/in/habeneheir-h-tickheir |
 | ------- | --- | --- | --- |
@@ -272,6 +272,7 @@ Get to know our awesome team members and their contributions 👩‍💻👨‍�
 | <h3 align="center"> Shruti Chowdhury  </h3> | <img src="https://user-images.githubusercontent.com/92269847/139531710-d2f5bd44-4263-4c7b-80b8-812e81225d05.jpg"  width="200" height="250"> | @Shruti2754 |  www.linkedin.com/in/shruti-chowdhury-8b876921a  | 
 | ------- | --- | --- | --- |
 | <h3 align="center"> Filani Bisola  </h3> | <img src="https://user-images.githubusercontent.com/49569153/139529654-6299966b-26b7-41f6-b253-586e5d338ffd.jpg"  width="200" height="250"> | @bisola |   https://www.instagram.com/filani.bisola/  |
+| ------- | --- | --- | --- |
 ## Thank you for your Time and Patience :relaxed: 
  <p align="center">
    <br>
